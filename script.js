@@ -34,16 +34,6 @@ const MOVIES_DATA = [
         desc: "Çok yetenekli bir hırsız olan Dom Cobb, insanların rüya gördüğü sırada bilinçaltının derinliklerindeki sırları çalmakta uzmandır."
     },
    {
-        id: 4,
-        title: "yasak krallık",
-        genre: "Aksiyon",
-        year: "2010",
-        rating: "8.8",
-        image: "https://unsplash.com",
-        trailer: "http://127.0.0.1/yasak%20krall%C4%B1k%20test%20i%C3%A7in%20sonra%20silinecek/ORJINAL_VIDEONUZUN_ADI.mp4",
-        watch_url: "http://127.0.0.1/yasak%20krall%C4%B1k%20test%20i%C3%A7in%20sonra%20silinecek/ORJINAL_VIDEONUZUN_ADI.mp4",
-        desc: "Çok yetenekli bir hırsız olan Dom Cobb, insanların rüya gördüğü sırada bilinçaltının derinliklerindeki sırları çalmakta uzmandır."
-    }
 
     
 
