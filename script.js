@@ -32,12 +32,14 @@ const MOVIES_DATA = [
         trailer: "https://youtube.com",
         watch_url: "https://ornekizleme-sitesi.com",
         desc: "Çok yetenekli bir hırsız olan Dom Cobb, insanların rüya gördüğü sırada bilinçaltının derinliklerindeki sırları çalmakta uzmandır."
-    },
-   {
+    }
+ ];
+
+
 
     
 
-];
+
 
 
 
